@@ -1,9 +1,11 @@
-package com.chi_a.jing.smartcase;
+package com.chi_a.jing.smartcase.activity;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.View;
+
+import com.chi_a.jing.smartcase.R;
 
 public class IndexActivity extends ActionBarActivity {
 

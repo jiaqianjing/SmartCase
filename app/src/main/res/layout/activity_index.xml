@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/index"
     android:orientation="vertical"
-    tools:context="com.chi_a.jing.smartcase.IndexActivity">
+    tools:context=".activity.IndexActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
