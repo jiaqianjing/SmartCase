@@ -27,6 +27,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/bt_login"
+            android:onClick="goLogin"
             />
         <Button
             android:layout_below="@+id/bt_login"
@@ -36,6 +37,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/bt_regist"
+            android:onClick="goRegist"
             />
 
     </RelativeLayout>
